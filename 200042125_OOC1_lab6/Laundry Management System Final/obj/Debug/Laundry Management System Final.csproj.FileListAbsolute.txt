@@ -1,0 +1,11 @@
+D:\2nd Semester\SWE 4202 LAB\Laundry Management System Final\bin\Debug\Laundry Management System Final.exe.config
+D:\2nd Semester\SWE 4202 LAB\Laundry Management System Final\bin\Debug\Laundry Management System Final.exe
+D:\2nd Semester\SWE 4202 LAB\Laundry Management System Final\bin\Debug\Laundry Management System Final.pdb
+D:\2nd Semester\SWE 4202 LAB\Laundry Management System Final\obj\Debug\Laundry Management System Final.csproj.AssemblyReference.cache
+D:\2nd Semester\SWE 4202 LAB\Laundry Management System Final\obj\Debug\Laundry Management System Final.csproj.SuggestedBindingRedirects.cache
+D:\2nd Semester\SWE 4202 LAB\Laundry Management System Final\obj\Debug\Laundry_Management_System_Final.Form1.resources
+D:\2nd Semester\SWE 4202 LAB\Laundry Management System Final\obj\Debug\Laundry_Management_System_Final.Properties.Resources.resources
+D:\2nd Semester\SWE 4202 LAB\Laundry Management System Final\obj\Debug\Laundry Management System Final.csproj.GenerateResource.cache
+D:\2nd Semester\SWE 4202 LAB\Laundry Management System Final\obj\Debug\Laundry Management System Final.csproj.CoreCompileInputs.cache
+D:\2nd Semester\SWE 4202 LAB\Laundry Management System Final\obj\Debug\Laundry Management System Final.exe
+D:\2nd Semester\SWE 4202 LAB\Laundry Management System Final\obj\Debug\Laundry Management System Final.pdb
